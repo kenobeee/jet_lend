@@ -1,0 +1,8 @@
+@mixin defaultTransition {
+  transition: .3s;
+}
+
+@mixin defaultButton {
+  @include defaultTransition;
+  cursor: pointer;
+}
