@@ -15,6 +15,9 @@
       "components/*": [
         "components/*"
       ],
+      "types": [
+        "types"
+      ],
     },
     "allowJs": true,
     "sourceMap": true,
