@@ -3,3 +3,7 @@
 <strong>1.</strong> npm i
 <br>
 <strong>2.</strong> npm run start
+
+или:
+
+http://itmuch.ru
